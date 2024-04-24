@@ -8,13 +8,23 @@ I have tried to solve these questions -
    2 . which category has the most number of installations ?
 
    3 . are majority of apps paid or free ?
+
    4 . how does the installation vary with the app size ?
+
    5 . how does the installation vary with price ?
+
    6 . how does rating vary with the size of the app ?
+
    7 . how does the android version affects the installation ?
+
    8 . what is the age group that is compatible for the most of the apps ?
+
    9 . how is the ratings distribution ?
+
    10 . To which extent sentimant subjectivity and sentiment polarity are co-related ?
+
    11 . how sentimant subjectivity and sentiment polarity are distributed ?
+
    12 . what is the count of sentiments for each type ?
+
    13 . what is the type of major sentiments given by the users ?
